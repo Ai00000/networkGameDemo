@@ -8,13 +8,8 @@
       <e p="Assets" t="Include">
         <e p="_Scripts" t="Include">
           <e p="BaseHuman.cs" t="Include" />
-        </e>
-        <e p="Mixamo" t="Include">
-          <e p="Magic Pack" t="Include">
-            <e p="Demo" t="Include">
-              <e p="CameraScroll.cs" t="Include" />
-            </e>
-          </e>
+          <e p="CtrlHuman.cs" t="Include" />
+          <e p="SyncHuman.cs" t="Include" />
         </e>
       </e>
       <e p="networkGameDemo.sln" t="IncludeFlat" />
