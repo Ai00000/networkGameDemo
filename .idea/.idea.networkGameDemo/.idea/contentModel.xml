@@ -9,6 +9,8 @@
         <e p="_Scripts" t="Include">
           <e p="BaseHuman.cs" t="Include" />
           <e p="CtrlHuman.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="NetManager.cs" t="Include" />
           <e p="SyncHuman.cs" t="Include" />
         </e>
       </e>
